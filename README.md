@@ -1,4 +1,4 @@
-<img src="assets/silver-symbols.svg" width="280" height="84" alt="Dönen gümüş küp, kod parantezleri ve yörünge halkaları">
+<img src="assets/silver-symbols.svg" width="280" height="84">
 
 ### Linux Systems & Network Engineering
 
