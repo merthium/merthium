@@ -1,6 +1,6 @@
-<img src="assets/silver-symbols.svg" width="280" height="84">
+<img align="right" src="assets/network.svg" width="22%" alt="">
 
-### Linux Systems & Network Engineering
+### Linux Systems &<br>Network Engineering
 
 Computer engineering student at Necmettin Erbakan University.
 
